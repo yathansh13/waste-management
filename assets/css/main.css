@@ -323,6 +323,15 @@ input, select, textarea {
 		padding: 0.25rem 0.65rem;
 	}
 
+	table{
+		display: block;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    word-wrap: break-word;
+  white-space: nowrap;
+	}
+
 	pre {
 		-webkit-overflow-scrolling: touch;
 		font-family: "Courier New", monospace;

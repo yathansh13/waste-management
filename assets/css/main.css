@@ -3992,7 +3992,7 @@ body.is-ie #wrapper > section > .content > section {
   opacity: 0;
   transition: 0.5s ease;
   background-color: black;
-}
+} 
 
 .container:hover .overlay {
   opacity: 0.5;
